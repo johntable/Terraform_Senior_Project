@@ -3,6 +3,11 @@ API Group presents...our senior project! We are planning on contributing to the 
 
 Authors: Jeffrey, Dominica, John
 
+HOW TO USE: 
+1. Download the Repository, open your terminal and CD to the repo
+2. Run the following command "python3 our_scenario.py"
+3. Standby, your EC-2 instance will be created
+
 Requirements
 
 - Linux or MacOS. Windows is not officially supported.
