@@ -1,6 +1,8 @@
 # Terraform_Senior_Project
 API Group presents...our senior project! We are planning on contributing to the CloudGoat GitHub page, with our "capture the flag" scenario. This project will be written in both Terraform (HCL) and Python 3.
 
+Authors: Jeffrey, Dominica, John
+
 Requirements
 
 - Linux or MacOS. Windows is not officially supported.
